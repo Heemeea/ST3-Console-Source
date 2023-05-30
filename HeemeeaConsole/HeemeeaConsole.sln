@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeemeeaConsole", "HeemeeaConsole\HeemeeaConsole.csproj", "{5787EF9B-14CE-48C2-B5BC-937760E93862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5787EF9B-14CE-48C2-B5BC-937760E93862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5787EF9B-14CE-48C2-B5BC-937760E93862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5787EF9B-14CE-48C2-B5BC-937760E93862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5787EF9B-14CE-48C2-B5BC-937760E93862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D19222FC-1EF6-4A9D-898E-C0E86223869A}
+	EndGlobalSection
+EndGlobal
